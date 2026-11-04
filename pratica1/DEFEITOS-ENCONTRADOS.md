@@ -1,6 +1,6 @@
 # Prática 1 — Defeitos encontrados no plano do MercadoJá
 
-**Dupla:** [Nome 1] e [Nome 2]
+**Equipe** [Nome 1] e [Nome 2]
 
 Leia o arquivo `Plano-MercadoJa-revisar.md` e registre cada defeito numa linha. Um defeito de documento é qualquer coisa que esteja errada, faltando, vaga, contraditória ou que não dê para verificar.
 
